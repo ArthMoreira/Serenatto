@@ -26,7 +26,7 @@ O layout foi desenvolvido com o sistema de **grid do Bootstrap**, garantindo que
 
 ## 🌙 Modo Dark
 
-Foi implementado um **modo escuro** para aprimorar a experiência do usuário e demonstrar a flexibilidade do framework na criação de temas personalizados.
+Foi implementado um **modo escuro** para aprimorar a experiência do usuário.
 
 ## Visualização da Página
 
